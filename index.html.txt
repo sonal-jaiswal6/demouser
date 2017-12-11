@@ -1,0 +1,12 @@
+<html>
+<title>
+DEMO WEBAPP
+</title>
+<body>
+<h1>
+welcome to azure web apps 3.0
+
+</h1>
+</body>
+
+</html>
